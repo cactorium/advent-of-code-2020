@@ -1,0 +1,5 @@
+*.o
+*.hi
+Decoder
+Decoder2
+Decoder2Fast
